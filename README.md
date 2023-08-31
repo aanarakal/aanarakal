@@ -1,8 +1,18 @@
-# Hi there, I'm Aan Arakal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+<img src="https://github.com/aanarakal/aanarakal/blob/main/banner.png" />
+
+<h1>Hi there, I am <a href="#">Aan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+<img align='right' src="https://github.com/ashutosh1919/ashutosh1919/blob/main/profile_image.jpeg" width="230" />
 
 I'm a passionate Front-End Developer with over 10 years of experience in crafting beautiful and functional user interfaces. I specialize in React, TypeScript, Angular, HTML, and CSS. My goal is to create delightful user experiences that leave a lasting impact.
 
-## 🚀 My Expertise
+<a href="https://www.linkedin.com/in/aan-mary-thomas-arakal-b2179353/"><img src="https://github.com/aanarakal/aanarakal/blob/main/logos/linkedin.png" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/aanarakal/aanarakal/blob/main/logos/youtube-logo.png" width="40" /></a>
+<a href="https://www.patreon.com/devsense"><img src="https://github.com/aanarakal/aanarakal/blob/main/logos/patreon_logo.png" width="65" /></a>
+<a href="https://github.com/aanarakal"><img src="https://github.com/aanarakal/aanarakal/blob/main/logos/github-logo.png" width="40" /></a>
+<a href="mailto:aanarakal@gmail.com"><img src="https://github.com/aanarakal/aanarakal/blob/main/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com"><img src="https://github.com/aanarakal/aanarakal/blob/main/logos/twitter.png" width="40" /></a>
+
+<h3>What I do? 👨‍💻</h3>
 
 - **Front-End Development:** I bring user interfaces to life with pixel-perfect designs and seamless interactions.
 - **React Enthusiast:** Leveraging the power of React to build dynamic and responsive applications.
